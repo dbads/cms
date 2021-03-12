@@ -1,5 +1,7 @@
 ### Instructions to run the App
 
+- clone the repo `git clone git@github.com:dbads/cms.git`
+
 ### Setup Backend
 
 - Install the dependencies `npm install`
